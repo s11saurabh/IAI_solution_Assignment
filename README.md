@@ -4,6 +4,21 @@ An end-to-end application for automating employee invoice reimbursement analysis
 
 ---
 
+## 🎬 Demo and Repository
+
+- **📹 Video Demonstration**: [Watch Complete Demo](https://drive.google.com/)
+- **💻 Source Code**: [GitHub Repository](https://github.com/s11saurabh/IAI_solution_Assignment)
+
+
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/7e8206f4-fb2e-44b8-a216-cae54a716e24" />
+<img width="1460" alt="image" src="https://github.com/user-attachments/assets/6cfbaef8-980b-4a74-9218-0119f87cf869" />
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/70e61c91-52fd-45a7-b6f0-31fb18ed9471" />
+<img width="1384" alt="image" src="https://github.com/user-attachments/assets/d10312e5-8e47-48ae-b573-5f055b747539" />
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/0eccd677-79cb-4b88-9992-4764aeac6ad1" />
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/750666ec-1339-4630-9b95-c6f798ca89f6" />
+
+
+
 ## 🚀 Table of Contents
 
 1. [Features](#features)
